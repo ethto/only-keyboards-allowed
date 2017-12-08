@@ -59,12 +59,12 @@ html {
   text-decoration: none;
 }
 
-.masthead a:hover {
-  background-color: rgba(180, 220, 255, .3);
-}
-
 li a:focus {
   outline: solid #fff 2px;
+}
+
+.masthead a:hover {
+  background-color: rgba(180, 220, 255, .3);
 }
 
 .techniques {
